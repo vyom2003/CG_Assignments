@@ -1,0 +1,9 @@
+/home/vyom/CG_Assignments-main/Assignment 0/build/CMakeFiles/rebuild_cache.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/CMakeFiles/edit_cache.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/CMakeFiles/glad.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/CMakeFiles/app.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/vyom/CG_Assignments-main/Assignment 0/build/libraries/glfw/src/CMakeFiles/glfw.dir
