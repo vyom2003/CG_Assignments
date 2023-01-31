@@ -1,12 +1,4 @@
-# OpenGL boilerplate
-
-## Contents
-- glfw, glad and glm built from source in `libraries`
-
-- Standard shader class from learnopengl.com and stb_image.h in `include`
-
-- CMake file to compile project (includes glfw, glad, glm and freetype)
-
+# JETPACK JOYRIDE
 
 ## Instructions to build
 
@@ -20,8 +12,9 @@
                 2.  `cd freetype-2.10.1`
                 3.  `./configure --prefix=/usr/local/freetype/2_10_1 --enable-freetype-config` : Prefix defines where freetype is installed
                 4.  `make; make install`
-        - Windows
-            - Use [this video](https://www.youtube.com/watch?v=qW_8Dyq2asc) if using VSCode (I hope you aren't)
-
 2. `mkdir build; cd build`
 3. `cmake ..; make`
+## Instructions to Play the game 
+1. The Player uses the jetpack on Pressing SPACEBAR key.
+2. On completion of a level press the right arrow key to enter the next level.
+3. In case you lose press Enter to restart.
