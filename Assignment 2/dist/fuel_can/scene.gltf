@@ -1,0 +1,225 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2796,
+      "max": [
+        5.079999923706055,
+        -41.38898468017578,
+        -6.366337776184082
+      ],
+      "min": [
+        -5.079999923706055,
+        -47.971099853515625,
+        -16.043432235717773
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 33552,
+      "componentType": 5126,
+      "count": 2796,
+      "max": [
+        0.999961793422699,
+        0.9991257786750793,
+        0.9998912811279297
+      ],
+      "min": [
+        -0.9999894499778748,
+        -0.9998915791511536,
+        -0.9983912110328674
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 16008,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 67104,
+      "componentType": 5126,
+      "count": 11148,
+      "max": [
+        8.89000129699707,
+        6.20000006890109e-09,
+        17.780000686645508
+      ],
+      "min": [
+        -8.89000129699707,
+        -48.2599983215332,
+        -17.779996871948242
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 200880,
+      "componentType": 5126,
+      "count": 11148,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 64032,
+      "componentType": 5125,
+      "count": 52134,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3DJeff (https://sketchfab.com/3DJeff)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/20l-water-jerry-can-h20-container-military-26471c3601da4368bca9fc3ee330ee8f",
+      "title": "20L Water Jerry Can | H20 Container | Military"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 272568,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 334656,
+      "byteOffset": 272568,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 607224,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "R0G0.600000023841858B1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.6,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "R0.0980392172932625G0.0980392172932625B0.0980392172932625",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.07229518465485898,
+          0.07229518465485898,
+          0.07229518465485898,
+          1.0
+        ],
+        "metallicFactor": 0.20843593625546455,
+        "roughnessFactor": 0.3361195726854301
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        2.220446049250313e-16,
+        -4.440892098500626e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        -4.440892098500626e-16,
+        0.0,
+        1.0,
+        4.930380657631324e-32,
+        -2.220446049250313e-16,
+        0.0,
+        6.198883056640625e-06,
+        -24.130016326904304,
+        24.13001060485839,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "20L Water Jug v2.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
